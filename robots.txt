@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-1zs16q.pulaucuan.com/sitemap.xml
